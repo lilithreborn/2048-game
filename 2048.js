@@ -34,7 +34,7 @@ function construitGrille() {
 // Actualisation du score
 function afficheScore() {
   $("#score").html(score);
-  if (nbVide == 16) gameOver();
+  if (nbVide == 0) gameOver();
 }
 
 // Actualisation du nb de cases vides
