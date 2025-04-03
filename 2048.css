@@ -1,0 +1,29 @@
+/*Author : Maya OURARI 12200604*/
+
+body {
+  background-color: #DDEEEE;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  background-color: #002255;
+  color: #DDEEEE;
+  border: solid #005588;
+}
+
+#grille>table {
+  background-color: #BBDDDD;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px, solid, black;
+  border-collapse: collapse;
+}
+
+th {
+  text-align: center;
+  height: 60px;
+  width: 60px;
+  border: 1px, solid, black;
+  border-collapse: collapse;
+}
